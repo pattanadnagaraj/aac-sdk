@@ -1,8 +1,8 @@
 {
     "deviceInfo": {
-        "clientId": "${YOUR_CLIENT_ID}",
-        "deviceSerialNumber": "${YOUR_DEVICE_SERIAL_NUMBER}",
-        "productId": "${YOUR_PRODUCT_ID}"
+        "clientId": "${amzn1.application-oa2-client.4196b4f403b142139cc4cd1302f2776e}",
+        "deviceSerialNumber": "${D4M08Q2}",
+        "productId": "${Autosdkid}"
     },
     "libcurlUtils": {
         "CURLOPT_CAPATH": "/etc/ssl/certs"
